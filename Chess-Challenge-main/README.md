@@ -1,4 +1,4 @@
-# MyBot.cs is the only thing I have coded
+# (MyBot.cs is the only thing I have coded)
 
 
 # Chess Coding Challenge (C#)
