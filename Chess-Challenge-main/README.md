@@ -1,6 +1,6 @@
 # *** MyBot.cs is the only thing I have coded ***
 
-(Chess-Challenge/src/My Bot/)
+ROUTE: ./Chess-Challenge/src/My Bot/
 
 # Chess Coding Challenge (C#)
 Welcome to the [chess coding challenge](https://youtu.be/iScy18pVR58)! This is a friendly competition in which your goal is to create a small chess bot (in C#) using the framework provided in this repository.
