@@ -1,4 +1,5 @@
-# *** MyBot.cs is the only thing I have coded (Chess-Challenge/src/My Bot) ***
+# *** MyBot.cs is the only thing I have coded ***
+(Chess-Challenge/src/My Bot/)
 
 
 # Chess Coding Challenge (C#)
